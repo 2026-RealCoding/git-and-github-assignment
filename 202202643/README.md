@@ -1,0 +1,4 @@
+# git-and-github-assignment
+1. develop 브랜치에서 분기
+2. develop 브랜치에서 merge 요청
+3. hotfix 브랜치
